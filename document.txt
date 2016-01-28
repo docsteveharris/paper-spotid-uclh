@@ -7,6 +7,14 @@ Sepsis and complement profiles in pneumonia
 # Introduction
 
 # Methods
+##  Complement
+
+Blood samples and clinical/outcome data were obtained from patients with
+CAP recruited into the SPOTid trial, a prospective observational cohort
+study aiming to obtain a longitudinal description of organ dysfunction
+in patients with severe sepsis. Ethical approval was obtained for the
+study as described in section
+(REC ref 10/H0807/78).
 
 # Results
 
