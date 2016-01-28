@@ -6,7 +6,29 @@ Sepsis and complement profiles in pneumonia
 
 # Introduction
 
+USP for the paper
+
+- breadth of biomarker information
+- early in disease process
+- serial measurements  to define trajectory
+
 # Methods
+
+## Patients
+
+### Inclusion
+
+- patients pre-organ support
+- emphasise short hospital LOS pre measurement
+- lowish baseline severity
+- drop uninformative, missingness+++ or rare biomarkers (e.g. keep C3/5, drop IL99) -  e.g. IL6/10 and ratio thereof + ?TNF
+
+## Definitions
+
+
+Primary endpoint - 7 day badness
+Secondary endpoints - 28d mortality + others (as a sensitivity analysis)
+
 ##  Complement
 
 Blood samples and clinical/outcome data were obtained from patients with
